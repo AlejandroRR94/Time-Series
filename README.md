@@ -20,4 +20,4 @@ The **objective** is to perform a forecasting on the sales data. To do so, I wil
 There are two notebooks.
 
 - **Alcohol Time Series**  explains a little bit more each algorithm used.
-- **BeerWineLiquor**  is a more rapid-fire implementation of the algorithms needed in order to accurately forecast the series in case you just want to look up the necessary steps to make a forecast.
+- **Beer Time Series**  is a more rapid-fire implementation of the algorithms needed in order to accurately forecast the series in case you just want to look up the necessary steps to make a forecast.
